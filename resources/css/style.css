@@ -1,4 +1,12 @@
 body {
   font-family: helvetica;
   text-align: center;
+
+}
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+.hero {
+background-image: url(/Users/yoeldovspinner/Desktop/Broadway/resources/images/the-flatiron-building.png);
 }
