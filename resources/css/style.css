@@ -1,7 +1,24 @@
 body {
   font-family: helvetica;
-  text-align: center;
 
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+.supporting {
+  text-align: center;
+}
+.supporting h2 {
+  font-size: 32;
+}
+.supporting h3 {
+  font-size: 23px;
+}
+.supporting-item p {
+  font-size: 14px;
+}
+.hero h1 {
+  font-size: 70px;
 }
 .btn-nav {
   font-size: 18px;
@@ -9,4 +26,18 @@ body {
 }
 .hero {
 background-image: url(/Users/yoeldovspinner/Desktop/Broadway/resources/images/the-flatiron-building.png);
+text-align: center;
+color: white;
+}
+.hero h2 {
+  font-size: 23px;
+}
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+.footer .btn-nav {
+  font-size: 11px;
 }
